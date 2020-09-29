@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html lang="" xml:lang="">
-  <head>
-    <title>SALUD CARDIOVASCULAR EN URUGUAY</title>
-    <meta charset="utf-8" />
-    <meta name="author" content="Virginia Estragó - Matías Muñoz - Ramón Álvarez" />
-    <script src="libs/htmlwidgets/htmlwidgets.js"></script>
-    <script src="libs/plotly-binding/plotly.js"></script>
-    <script src="libs/typedarray/typedarray.min.js"></script>
-    <script src="libs/jquery/jquery.min.js"></script>
-    <link href="libs/crosstalk/css/crosstalk.css" rel="stylesheet" />
-    <script src="libs/crosstalk/js/crosstalk.min.js"></script>
-    <link href="libs/plotly-htmlwidgets-css/plotly-htmlwidgets.css" rel="stylesheet" />
-    <script src="libs/plotly-main/plotly-latest.min.js"></script>
-    <script src="libs/kePrint/kePrint.js"></script>
-    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
-  </head>
-  <body>
-    <textarea id="source">
 class: center, middle, inverse, title-slide
 
 # SALUD CARDIOVASCULAR EN URUGUAY
