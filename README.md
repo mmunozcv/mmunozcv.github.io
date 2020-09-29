@@ -1,2 +1,0 @@
-# suc
-Presentación SUC
